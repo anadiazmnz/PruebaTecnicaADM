@@ -1,4 +1,4 @@
-# PruebaTecnicaADMBL
+# PruebaTecnicaADM
 
 Proyecto que consiste en en tres pruebas automatizadas para el login de una aplicación facilitada. 
 - BasicLogin: Autenticación básica de user y password
